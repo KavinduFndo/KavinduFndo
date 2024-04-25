@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindufndo&label=Profile%20views&color=0e75b6&style=flat" alt="kavindufndo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindufndo" alt="kavindufndo" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - ⚡ Fun fact **Pro Gamer**
